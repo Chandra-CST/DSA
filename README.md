@@ -7,3 +7,5 @@ This is my daily DSA practice repository.
 - Day 2: Implement Max array and Sum calculation
 - Day 3: linear Search
 - Day 4: Binary Search
+- Day 4: Bubble Sort
+- Day 4: Selection Sort
