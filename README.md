@@ -5,5 +5,5 @@ This is my daily DSA practice repository.
 ## Progress
 - Day 1: Reverse Array
 - Day 2: Implement Max array and Sum calculation
-- Day 3: linera Search
+- Day 3: linear Search
 - Day 4: Binary Search
