@@ -9,3 +9,11 @@ This is my daily DSA practice repository.
 - Day 4: Binary Search
 - Day 4: Bubble Sort
 - Day 4: Selection Sort
+- .
+- .
+- .
+- //1 week gap
+- .
+- .
+- .
+- Day 5: Recursion practice 
