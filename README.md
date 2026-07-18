@@ -16,4 +16,6 @@ This is my daily DSA practice repository.
 - .
 - .
 - .
-- Day 5: Recursion practice 
+- Day 5: Recursion practice
+
+- Week 2: DSA Revision
