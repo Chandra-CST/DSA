@@ -19,3 +19,4 @@ This is my daily DSA practice repository.
 - Day 5: Recursion practice
 
 - Week 2: DSA Revision
+- Day 1 : Arrays and loops
