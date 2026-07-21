@@ -20,3 +20,4 @@ This is my daily DSA practice repository.
 
 - Week 2: DSA Revision
 - Day 1 : Arrays and loops
+- Day 2 : Revision
